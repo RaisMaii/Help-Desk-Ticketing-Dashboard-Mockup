@@ -1,6 +1,6 @@
 # 🔧 IT Help Desk Ticketing System Simulation
 
-![Help Desk Ticketing Dashboard Mockup](./screenshots/dashboard.png)
+![Help Desk Ticketing Dashboard Mockup](./screenshots/s2.png)
 
 *A production-quality Help Desk Operations simulation designed for IT Support Portfolio demonstration.*
 
@@ -16,11 +16,12 @@ Built with scalability, accessibility, and modern UI/UX principles in mind, the 
 *   **SLA & Priority Management**: Enforces priority levels (`Low`, `Medium`, `High`, `Critical`), utilizing visual color-coding to highlight urgent needs.
 *   **Resolution Logging System**: Support technicians can document internal troubleshooting notes and end-user communication directly into the ticket resolution logs.
 <br>
-<img src="./screenshots/s1.png" alt="Ticket Details and Resolution Logs" width="800"/>
+<img src="./screenshots/s2.png" alt="Ticket Details and Resolution Logs" width="800"/>
+<img src="./screenshots/s3.png" alt="Ticket Details and Resolution Logs" width="800"/>
 
 *   **Dynamic Dashboard Environment**: An interactive, glassmorphism-styled dashboard containing quick-metric cards (Open, Urgent, Resolved) and real-time filtering mechanisms.
 <br>
-<img src="./screenshots/s2.png" alt="Create New Ticket Modal" width="800"/>
+<img src="./screenshots/s1.png" alt="Create New Ticket Modal" width="800"/>
 *   **Preloaded Scenario Database**: Shipped with a seeded lightweight JSON database simulating 25 realistic corporate IT problems (VPN disconnects, Active Directory lockouts, BSOD instances).
 
 ---

@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+server/node_modules/
+
+# Local databases
+server/data/db.json
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+frontend/dist/
+dist/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+coverage/
+
+# Misc
+.npm/
